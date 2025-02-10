@@ -6,7 +6,8 @@ Customer churn is a critical issue for businesses, as losing customers directly 
 ## Objective 
 The goal of this project is to build a deep learning model using an ANN to predict whether a customer will churn (leave) based on historical data.
 
-##Dataset
+## Dataset
+https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 The dataset used contains customer details, such as:
 Demographics: Age, Gender, Location
 Account Information: Tenure, Services subscribed, Monthly charges
